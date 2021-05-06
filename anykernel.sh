@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sleepy kernel by Lacia-chan
+kernel.string=Sleepy kernel for Daisy and Sakura
 do.devicecheck=1
 do.modules=0
 do.systemless=1
